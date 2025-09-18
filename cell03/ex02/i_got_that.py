@@ -1,7 +1,7 @@
 # i_got_that.py
-
+print("What you gotta say? : \r")
 while True:
-    user_input = input("What you gotta say? : ")
+    user_input = input()
     
     if user_input == "STOP":
         break
